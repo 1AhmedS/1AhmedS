@@ -48,3 +48,17 @@
   <h2>🏆 GitHub Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=1AhmedS&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
 </div>
+
+#
+
+<div align="center" style="margin-top: 50px;">
+  <p> ! شكرا لمشاهدتك بروفايلي </p>
+  <p>
+    <a href="https://github.com/1AhmedS">
+      <img src="https://img.shields.io/github/followers/1AhmedS?label=Follow&style=social" alt="GitHub Follow"/>
+    </a>
+    <a href="https://paypal.me/ASamir941">
+      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=flat" alt="Buy Me a Coffee"/>
+    </a>
+  </p>
+</div>
