@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://imgur.com/a/Ze67RUT" alt="Banner-Main" style="border-radius: 10px;" />
-</p>
+<img align="center" src="https://imgur.com/a/Ze67RUT" alt="Banner-Main" style="border-radius: 10px;" />
 
 # Ahmed Samir 💻 
 
