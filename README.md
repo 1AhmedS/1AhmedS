@@ -8,4 +8,5 @@
 تقدر تنورني في سيرفري "[بالديسكورد](https://discord.gg/hTkzz2ZzJA)" او تتواصل معايا وتابعني علي "[انستا](https://www.instagram.com/nsl2j)" .
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=1AhmedS&theme=dark&hide_border=true&locale=ar&mode=weekly&card_width=450&card_height=150&type=png)](https://git.io/streak-stats)
+![1AhmedS's Stats](https://github-readme-stats.vercel.app/api?username=1AhmedS&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
+![1AhmedS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1AhmedS&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
