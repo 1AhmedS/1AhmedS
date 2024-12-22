@@ -25,19 +25,26 @@
 
 #
 
-### Languages and Tools 🔨
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
+<div align="center">
+  <h2>Languages and Tools 🔨</h2>
+  <p>
+    <img src="https://imgur.com/KEjLMbm.png" alt="C#" title="C#" width="50" height="50"/>
+    <img src="https://imgur.com/M7clnGu.png" alt="C++" title="C++" width="50" height="50"/>
+    <img src="https://imgur.com/OVq7WwF.png" alt="Python" title="Python" width="50" height="50"/>
+    <img src="https://imgur.com/3KvfKeH.png" alt="HTML" title="HTML" width="50" height="50"/>
+    <img src="https://imgur.com/JncbSGq.png" alt="CSS" title="CSS" width="50" height="50"/>
+    <img src="https://imgur.com/zw93EwM.png" alt="TypeScript" title="TypeScript" width="50" height="50"/>
+    <img src="https://imgur.com/J6J18Oq.png" alt="JavaScript" title="JavaScript" width="50" height="50"/>
+    <img src="https://imgur.com/am2M8Sr.png" alt="GitHub" title="GitHub" width="50" height="50"/>
+    <img src="https://imgur.com/23o6vBG.png" alt="Git" title="Git" width="50" height="50"/>
+    <img src="https://imgur.com/5GBBmDh.png" alt="VS Code" title="Visual Studio Code" width="50" height="50"/>
+    <img src="https://imgur.com/7RTXlBW.png" alt="Shell" title="Shell" width="50" height="50"/>
+  </p>
+</div>
 
 #
+
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=1AhmedS&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
+</div>
