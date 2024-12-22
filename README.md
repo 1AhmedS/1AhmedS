@@ -15,7 +15,13 @@
   </p>
 </div>
 
-[![](https://dcbadge.limes.pink/api/server/hTkzz2ZzJA)](https://discord.gg/hTkzz2ZzJA)
+<div align="center" style="margin-top: 50px;">
+  <p>
+    <a href="https://discord.gg/hTkzz2ZzJA">
+      <img src="https://dcbadge.limes.pink/api/server/hTkzz2ZzJA" alt="Discord Server"/>
+    </a>
+  </p>
+</div>
 
 #
 
