@@ -7,9 +7,13 @@
 
 [![](https://dcbadge.limes.pink/api/server/hTkzz2ZzJA)](https://discord.gg/hTkzz2ZzJA)
 
+#
+
 # Stats 📊
 
 ![1AhmedS's Stats](https://github-readme-stats.vercel.app/api?username=1AhmedS&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
+
+#
 
 # Languages and Tools 🔨
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
