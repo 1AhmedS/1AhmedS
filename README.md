@@ -1,4 +1,4 @@
-# Ahmed Samir 🎓
+### Ahmed Samir 💻 
 
 **`مبرمج ( بوتات ديسكورد - فايف ام )`**
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=About+Me)](https://git.io/typing-svg)
