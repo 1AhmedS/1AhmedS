@@ -5,9 +5,11 @@
 </div>
 
 
-# Ahmed Samir 💻 
 <div align="center">
+  <h2>💻 Ahmed Samir</h2>
+  <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=About+Me" alt="About Me" />
+  </p>
 </div>
 
 **`مبرمج ( بوتات ديسكورد - فايف ام )`**
@@ -41,8 +43,8 @@
 
 #
 
-### Stats 📊
-<div align="center" style="margin-top: 50px;">
+<div align="center">
+  <h2>📊 Stats</h2>
   <p>
       <img src="https://github-readme-stats.vercel.app/api?username=1AhmedS&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Stats"/>
   </p>
