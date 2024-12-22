@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://imgur.com/a/Ze67RUT" alt="Banner Main" style="width: 100%; max-width: 800px; border-radius: 10px;" />
+</p>
+
 # Ahmed Samir 💻 
 
 **`مبرمج ( بوتات ديسكورد - فايف ام )`**
