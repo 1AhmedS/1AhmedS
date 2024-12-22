@@ -31,10 +31,10 @@
 #
 
 <div align="center">
-  <h2>🛄 The projects I am proud of</h2>
+  <h2>🔥 The projects I am proud of</h2>
   <p>
     <a href="https://github.com/1AhmedS/discord-starter-files">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=1AhmedS&repo=discord-starter-files&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Discord Starter Files" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=1AhmedS&repo=discord-starter-files&bg_color=000000&title_color=a5a5a5&text_color=a5a5a5" alt="Discord Starter Files" />
     </a>
   </p>
 </div>
