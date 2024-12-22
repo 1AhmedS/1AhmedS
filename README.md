@@ -1,4 +1,4 @@
-<img align="center" alt="Main-banner" style="width: 100%; max-width: 800px; border-radius: 50px;" src="https://cdn.discordapp.com/attachments/1314225238602678353/1320469055840325652/githubinfo.png?ex=6769b624&is=676864a4&hm=f7f40091ddc59de70745d2496173e27a958e90b97247ba8c1e8d598c3e198612&" />
+<img align="center" alt="Main-banner" style="width: 100%; max-width: 800px; border-radius: 50px;" src="https://cdn.discordapp.com/attachments/1314225238602678353/1320470292996423790/githubinfo.png?ex=6769b74b&is=676865cb&hm=cfb80c3e87a5079fdcfb0576d2c6e292717da9f302b5f15727c2ece6a6494f38&" />
 
 # Ahmed Samir 💻 
 
