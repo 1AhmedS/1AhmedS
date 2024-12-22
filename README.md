@@ -8,5 +8,10 @@
 تقدر تنورني في سيرفري "[بالديسكورد](https://discord.gg/hTkzz2ZzJA)" او تتواصل معايا وتابعني علي "[انستا](https://www.instagram.com/nsl2j)" .
 
 
+# ! Stats 📊
+
 ![1AhmedS's Stats](https://github-readme-stats.vercel.app/api?username=1AhmedS&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
+
+# ! Language 🌆
+
 ![1AhmedS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1AhmedS&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
