@@ -27,7 +27,11 @@
 
 ### Stats 📊
 
-![1AhmedS's Stats](https://github-readme-stats.vercel.app/api?username=1AhmedS&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
+<div align="center" style="margin-top: 50px;">
+  <p>
+      <img src="https://github-readme-stats.vercel.app/api?username=1AhmedS&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" alt="Stats"/>
+  </p>
+</div>
 
 #
 
