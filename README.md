@@ -1,5 +1,8 @@
-<img align="center" alt="Main-banner" src="https://cdn.discordapp.com/attachments/1314225238602678353/1320470292996423790/githubinfo.png?ex=6769b74b&is=676865cb&hm=cfb80c3e87a5079fdcfb0576d2c6e292717da9f302b5f15727c2ece6a6494f38&" />
-
+<div align="center">
+  <p>
+    <img align="center" alt="Main-banner" src="https://cdn.discordapp.com/attachments/1314225238602678353/1320470292996423790/githubinfo.png?ex=6769b74b&is=676865cb&hm=cfb80c3e87a5079fdcfb0576d2c6e292717da9f302b5f15727c2ece6a6494f38&" />
+  </p>
+</div>
 
 
 # Ahmed Samir 💻 
