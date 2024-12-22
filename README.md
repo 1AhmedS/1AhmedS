@@ -53,7 +53,7 @@
 #
 
 <div align="center">
-  <h2>Languages and Tools 🔨</h2>
+  <h2>🔨 Languages and Tools</h2>
   <p>
     <img src="https://imgur.com/OVq7WwF.png" alt="Python" title="Python" width="50" height="50"/>
     <img src="https://imgur.com/3KvfKeH.png" alt="HTML" title="HTML" width="50" height="50"/>
@@ -77,7 +77,7 @@
 #
 
 <div align="center" style="margin-top: 50px;">
-  <p> ! شكرا لمشاهدتك بروفايلي </p>
+  <p> 💌 Support </p>
   <p>
     <a href="https://github.com/1AhmedS">
       <img src="https://img.shields.io/github/followers/1AhmedS?label=Follow&style=social" alt="GitHub Follow"/>
