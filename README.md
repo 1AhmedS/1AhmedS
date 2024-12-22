@@ -43,8 +43,6 @@
 <div align="center">
   <h2>Languages and Tools 🔨</h2>
   <p>
-    <img src="https://imgur.com/KEjLMbm.png" alt="C#" title="C#" width="50" height="50"/>
-    <img src="https://imgur.com/M7clnGu.png" alt="C++" title="C++" width="50" height="50"/>
     <img src="https://imgur.com/OVq7WwF.png" alt="Python" title="Python" width="50" height="50"/>
     <img src="https://imgur.com/3KvfKeH.png" alt="HTML" title="HTML" width="50" height="50"/>
     <img src="https://imgur.com/JncbSGq.png" alt="CSS" title="CSS" width="50" height="50"/>
