@@ -64,6 +64,7 @@
     <img src="https://imgur.com/23o6vBG.png" alt="Git" title="Git" width="50" height="50"/>
     <img src="https://imgur.com/5GBBmDh.png" alt="VS Code" title="Visual Studio Code" width="50" height="50"/>
     <img src="https://imgur.com/7RTXlBW.png" alt="Shell" title="Shell" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-plain.svg" alt="Shell" title="Shell" width="50" height="50"/>
   </p>
 </div>
 
