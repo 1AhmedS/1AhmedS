@@ -75,13 +75,12 @@
 
 #
 
-### 💻 Skills 
 
 <div align="center">
-
-[![My Languages](https://skillicons.dev/icons?i=pycharm,github,vscode,replit,photoshop,premiere,discord,discordbots)]()
-
+  <h2>💻 Skills</h2>
+    <img src="https://skillicons.dev/icons?i=pycharm,github,vscode,replit,photoshop,premiere,discord,discordbots" alt="My Languages"/>
 </div>
+
 
 #
 
