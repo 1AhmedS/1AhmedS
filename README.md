@@ -24,7 +24,7 @@
 <div align="center" style="margin-top: 50px;">
   <p>
     <a href="https://discord.gg/hTkzz2ZzJA">
-      <img src="https://dcbadge.limes.pink/api/server/hTkzz2ZzJA" alt="Discord Server"/>
+      <img src="https://discord.com/api/guilds/901930328027987979/widget.png?style=banner3" alt="Discord Server"/>
     </a>
   </p>
 </div>
