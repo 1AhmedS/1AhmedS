@@ -15,12 +15,6 @@
 
 اهلا وسهلا معك اخوك احمد سمير انا مبرمج للعديد من الأشياء ولكن متخصص في برمجة بوتات ديسكورد واستخدم ( discord.js ) وايضا اشتغلت في سيرفرات فايف ام عديدة وتحديدا ابرمج ( QBCore ) وتعاملت معا اشياء كثيره ومنها اني قمت بتعلم مبادئ انشاء موقع ما بأستخدام ( HTML - CSS ) اتعلمت العديد في هذا المجال.
 
-<div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=1AhmedS&color=blue" alt="Visitors" />
-  </p>
-</div>
-
 <div align="center" style="margin-top: 50px;">
   <p>
     <a href="https://discord.gg/hTkzz2ZzJA">
@@ -31,7 +25,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/813844172754649130">
-    <img src="https://lanyard.cnrad.dev/api/813844172754649130" alt="Discord Profile"/>
+    <img src="https://lanyard.cnrad.dev/api/813844172754649130?bg=0d1117&borderRadius=20&idleMessage=Now%20i'm%20not%20doing%20any%20thing%20!&theme=dark&animated=true&animatedDecoration=true&showDisplayName=true" alt="Discord Profile"/>
   </a>
 </p>
 
@@ -63,17 +57,34 @@
 <div align="center">
   <h2>🔨 Languages and Tools</h2>
   <p>
-    <img src="https://imgur.com/OVq7WwF.png" alt="Python" title="Python" width="50" height="50"/>
-    <img src="https://imgur.com/3KvfKeH.png" alt="HTML" title="HTML" width="50" height="50"/>
-    <img src="https://imgur.com/JncbSGq.png" alt="CSS" title="CSS" width="50" height="50"/>
-    <img src="https://imgur.com/zw93EwM.png" alt="TypeScript" title="TypeScript" width="50" height="50"/>
-    <img src="https://imgur.com/J6J18Oq.png" alt="JavaScript" title="JavaScript" width="50" height="50"/>
-    <img src="https://imgur.com/am2M8Sr.png" alt="GitHub" title="GitHub" width="50" height="50"/>
-    <img src="https://imgur.com/23o6vBG.png" alt="Git" title="Git" width="50" height="50"/>
-    <img src="https://imgur.com/5GBBmDh.png" alt="VS Code" title="Visual Studio Code" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-plain.svg" alt="Discord.JS" title="Discord.JS" width="50" height="50"/>
-    <img src="https://imgur.com/7RTXlBW.png" alt="Shell" title="Shell" width="50" height="50"/>
+      <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+      <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Icon">
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon">
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML Icon">
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Icon">
+<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript Icon">
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon">
+<img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" alt="PhotoShop Icon">
+<img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png" alt="PremierPro Icon">
+<img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="Pycharm Icon">
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VsCode Icon">
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.JS Icon">
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js Icon">
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git Icon">
+<img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub Icon">
+
   </p>
+</div>
+
+#
+
+### 💻 Skills 
+
+<div align="center">
+
+[![My Languages](https://skillicons.dev/icons?i=visualstudio,vscode,replit,photoshop,premiere,discord,discordbots)]()
+
 </div>
 
 #
@@ -95,4 +106,9 @@
       <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=flat" alt="Buy Me a Coffee"/>
     </a>
   </p>
+</div>
+
+<div align"center">
+   <p>👨‍🏫 Profile Vistors</p>
+  ![Visitor Count](https://profile-counter.glitch.me/1AhmedS/count.svg)
 </div>
