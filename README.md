@@ -4,7 +4,11 @@
   </p>
 </div>
 
-<a href="https://discord.com/users/813844172754649130"><img src="https://lanyard.cnrad.dev/api/813844172754649130" /></a>
+<p align="center">
+  <a href="https://discord.com/users/813844172754649130">
+    <img src="https://lanyard.cnrad.dev/api/813844172754649130" alt="Discord Profile"/>
+  </a>
+</p>
 
 <div align="center">
   <h2>💻 Ahmed Samir</h2>
