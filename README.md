@@ -103,7 +103,7 @@
 
 <div align="center">
    <p>👨‍🏫 Profile Vistors</p>
-  ![Visitor Count](https://profile-counter.glitch.me/1AhmedS/count.svg)
+  <img src="https://profile-counter.glitch.me/1AhmedS/count.svg" alt="Vistors"/>
 </div>
 
 <div align="center">
