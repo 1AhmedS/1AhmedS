@@ -49,6 +49,7 @@
   <h2>📊 Stats</h2>
   <p>
       <img src="https://github-readme-stats.vercel.app/api?username=1AhmedS&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1AhmedS&layout=pie&theme=dark" alt="top-langs"/>
   </p>
 </div>
 
