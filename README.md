@@ -101,12 +101,12 @@
   </p>
 </div>
 
-<div align"center">
+<div align="center">
    <p>👨‍🏫 Profile Vistors</p>
   ![Visitor Count](https://profile-counter.glitch.me/1AhmedS/count.svg)
 </div>
 
-<div align"center">
+<div align="center">
       <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
       <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
 </div>
