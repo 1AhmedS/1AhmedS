@@ -57,22 +57,15 @@
 <div align="center">
   <h2>🔨 Languages and Tools</h2>
   <p>
-      <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
-      <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Icon">
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon">
 <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML Icon">
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Icon">
 <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript Icon">
 <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon">
-<img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" alt="PhotoShop Icon">
-<img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png" alt="PremierPro Icon">
-<img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="Pycharm Icon">
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VsCode Icon">
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.JS Icon">
 <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js Icon">
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git Icon">
-<img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub Icon">
 
   </p>
 </div>
@@ -83,7 +76,7 @@
 
 <div align="center">
 
-[![My Languages](https://skillicons.dev/icons?i=visualstudio,vscode,replit,photoshop,premiere,discord,discordbots)]()
+[![My Languages](https://skillicons.dev/icons?i=pycharm,github,vscode,replit,photoshop,premiere,discord,discordbots)]()
 
 </div>
 
@@ -111,4 +104,9 @@
 <div align"center">
    <p>👨‍🏫 Profile Vistors</p>
   ![Visitor Count](https://profile-counter.glitch.me/1AhmedS/count.svg)
+</div>
+
+<div align"center">
+      <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+      <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
 </div>
