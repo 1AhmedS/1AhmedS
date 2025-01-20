@@ -92,7 +92,7 @@
 #
 
 <div align="center" style="margin-top: 50px;">
-  <p> 💌 Support </p>
+  <h2> 💌 Support </h2>
   <p>
     <a href="https://github.com/1AhmedS">
       <img src="https://img.shields.io/github/followers/1AhmedS?label=Follow&style=social" alt="GitHub Follow"/>
@@ -103,12 +103,11 @@
   </p>
 </div>
 
+#
+
 <div align="center">
-   <p>👨‍🏫 Profile Vistors</p>
+   <h2>👨‍🏫 Profile Vistors</h2>
   <img src="https://profile-counter.glitch.me/1AhmedS/count.svg" alt="Vistors"/>
 </div>
 
-<div align="center">
-      <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
-      <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
-</div>
+#
