@@ -40,6 +40,9 @@
     <a href="https://github.com/1AhmedS/Discord.js-ts-starter-files">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=1AhmedS&repo=Discord.js-ts-starter-files&bg_color=000000&title_color=a5a5a5&text_color=a5a5a5" alt="Discord.JS Starter Files" />
     </a>
+    <a href="https://github.com/1AhmedS/welcomerpackage">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=1AhmedS&repo=welcomerpackage&bg_color=000000&title_color=a5a5a5&text_color=a5a5a5" alt="Welcomer Package" />
+    </a>
   </p>
 </div>
 
