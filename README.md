@@ -7,7 +7,7 @@
 <div align="center">
   <h2>💻 Ahmed Samir</h2>
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=About+Me" alt="About Me" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cairo&weight=700&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&lines=About+Me" alt="About Me" />
   </p>
 </div>
 
