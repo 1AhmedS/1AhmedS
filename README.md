@@ -31,7 +31,7 @@
 
 #
 
-<div align="center>
+<div align="center">
     <h2>🔥 NPM Packages</h2>
     <p>
     <a href="https://github.com/1AhmedS/welcomerpackage">
