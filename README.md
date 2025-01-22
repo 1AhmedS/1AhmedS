@@ -46,16 +46,17 @@
   <h2>🔥 The projects I am proud of</h2>
   <p>
     <a href="https://github.com/1AhmedS/discord.js-starter-files">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=1AhmedS&repo=discord.js-starter-files&bg_color=0d0d0d,ffcc00&title_color=a5a5a5&text_color=a5a5a5" alt="Discord.JS Starter Files" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=1AhmedS&repo=discord.js-starter-files&bg_color=0d1117&title_color=ffcc00&text_color=a5a5a5" alt="Discord.JS Starter Files" />
     </a>
     <a href="https://github.com/1AhmedS/Discord.js-ts-starter-files">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=1AhmedS&repo=Discord.js-ts-starter-files&bg_color=0d0d0d,0000ff&title_color=a5a5a5&text_color=a5a5a5" alt="Discord.TS Starter Files" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=1AhmedS&repo=Discord.js-ts-starter-files&bg_color=0d1117&title_color=0000ff&text_color=a5a5a5" alt="Discord.TS Starter Files" />
     </a>
     <a href="https://github.com/1AhmedS/discord.py-starter-files">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=1AhmedS&repo=discord.py-starter-files&bg_color=0d0d0d,00ccff&title_color=a5a5a5&text_color=a5a5a5" alt="Discord.Py Starter Files" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=1AhmedS&repo=discord.py-starter-files&bg_color=0d1117&title_color=00ccff&text_color=a5a5a5" alt="Discord.Py Starter Files" />
     </a>
   </p>
 </div>
+
 #
 
 <div align="center">
