@@ -31,12 +31,20 @@
 
 #
 
-<div align="center">
-  <h2>🔥 The projects I am proud of</h2>
-  <p>
+<div align="center>
+    <h2>🔥 NPM Packages</h2>
+    <p>
     <a href="https://github.com/1AhmedS/welcomerpackage">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=1AhmedS&repo=welcomerpackage&bg_color=000000&title_color=a5a5a5&text_color=a5a5a5" alt="Welcomer Package" />
     </a>
+    </p>
+</div>
+
+#
+
+<div align="center">
+  <h2>🔥 The projects I am proud of</h2>
+  <p>
     <a href="https://github.com/1AhmedS/discord.js-starter-files">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=1AhmedS&repo=discord.js-starter-files&bg_color=000000&title_color=a5a5a5&text_color=a5a5a5" alt="Discord.JS Starter Files" />
     </a>
