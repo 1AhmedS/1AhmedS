@@ -28,9 +28,7 @@
 </div>
 
 <p align="center">
-  <a href="https://discord.com/users/813844172754649130">
-    <img src="https://lanyard.cnrad.dev/api/813844172754649130?bg=0d1117&borderRadius=20&idleMessage=Now%20i'm%20not%20doing%20any%20thing%20!&theme=dark&animated=true&animatedDecoration=true&showDisplayName=true" alt="Discord Profile"/>
-  </a>
+<a href="https://discord.com/users/813844172754649130"><img src="https://lanyard.cnrad.dev/api/813844172754649130?borderRadius=15px&bg=0d1117&idleMessage=%D9%85%D8%B4%20%D8%A8%D8%B9%D9%85%D9%84%20%D8%AD%D8%A7%D8%AC%D8%A9%20-%20i%20don't%20do%20anything&theme=dark&showDisplayName=false&hideDecoration=false" /></a>
 </p>
 
 #
