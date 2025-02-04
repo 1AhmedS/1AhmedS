@@ -76,7 +76,6 @@
 <div align="center">
   <h2>🔨 Languages and Tools</h2>
   <p>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Icon">
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon">
 <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML Icon">
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Icon">
