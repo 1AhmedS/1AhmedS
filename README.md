@@ -3,7 +3,6 @@
     <img align="center" alt="Main-banner" src="https://i.ibb.co/HhXZ2Xw/About-me.png" />
   </p>
 </div>
-
 <div align="center">
   <h2>💻 Ahmed Samir</h2>
   <p>
