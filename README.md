@@ -10,9 +10,9 @@
   </p>
 </div>
 
-**`مبرمج ( بوتات ديسكورد - مواقع - سيرفرات )`**
+**`مبرمج ( بوتات ديسكورد - مواقع )`**
 
-أنا أحمد سمير، مبرمج Full Stack شغوف بتطوير تطبيقات ويب متكاملة باستخدام أحدث التقنيات. أمتلك خبرة قوية في تطوير الواجهات الأمامية باستخدام React.js وNext.js، مع التركيز على بناء تجارب مستخدم ديناميكية وسلسة. لدي خبرة في تطوير المتاجر الإلكترونية باستخدام Liquid وShopify، بالإضافة إلى تطوير بوتات Discord باستخدام discord.js وسيرفرات FiveM باستخدام QBCore Framework. 🛠️ مهاراتي التقنية
+أنا أحمد سمير، مبرمج Full Stack شغوف بتطوير تطبيقات ويب متكاملة باستخدام أحدث التقنيات. أمتلك خبرة قوية في تطوير الواجهات الأمامية باستخدام React.js وNext.js، مع التركيز على بناء تجارب مستخدم ديناميكية وسلسة. لدي خبرة في تطوير المتاجر الإلكترونية باستخدام Liquid وShopify، بالإضافة إلى تطوير بوتات Discord باستخدام discord.js. 🛠️ مهاراتي التقنية
 
 الواجهات الأمامية: تصميم واجهات تفاعلية باستخدام React.js، Next.js، HTML، CSS، JavaScript، وTypeScript. الباك إند: تطوير تطبيقات قوية باستخدام Node.js و TypeScript لحل المشاكل البرمجية وإدارة السيرفرات. إدارة الكود: استخدام Git وGitHub لإدارة إصدارات المشاريع بكفاءة. أدوات التطوير: العمل باستخدامWindsurf , Cursor , VSCode لكتابة وتطوير الأكواد.
 
@@ -30,44 +30,17 @@
 <a href="https://discord.com/users/813844172754649130"><img src="https://lanyard.cnrad.dev/api/813844172754649130?borderRadius=15px&bg=0d1117&idleMessage=%D9%85%D8%B4%20%D8%A8%D8%B9%D9%85%D9%84%20%D8%AD%D8%A7%D8%AC%D8%A9%20-%20i%20don't%20do%20anything&theme=dark&showDisplayName=false&hideDecoration=false" /></a>
 </p>
 
-#
+---
+[![](https://visitcount.itsvg.in/api?id=1AhmedS&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-    <h2>📦 NPM Packages</h2>
-    <p>
-    <a href="https://github.com/1AhmedS/welcomerpackage">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=1AhmedS&repo=welcomerpackage&bg_color=000000&title_color=ff0000&text_color=a5a5a5" alt="Welcomer Package" />
-    </a>
-    </p>
-</div>
-
-#
-
-<div align="center">
-  <h2>🔥 The projects I am proud of</h2>
-  <p>
-    <a href="https://github.com/1AhmedS/discord.js-starter-files">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=1AhmedS&repo=discord.js-starter-files&bg_color=0d1117&title_color=ffcc00&text_color=a5a5a5" alt="Discord.JS Starter Files" />
-    </a>
-    <a href="https://github.com/1AhmedS/Discord.js-ts-starter-files">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=1AhmedS&repo=Discord.js-ts-starter-files&bg_color=0d1117&title_color=0000ff&text_color=a5a5a5" alt="Discord.TS Starter Files" />
-    </a>
-    <a href="https://github.com/1AhmedS/discord.py-starter-files">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=1AhmedS&repo=discord.py-starter-files&bg_color=0d1117&title_color=00ccff&text_color=a5a5a5" alt="Discord.Py Starter Files" />
-    </a>
-  </p>
-</div>
-
-#
-
-<div align="center">
+<!-- <div align="center">
   <h2>📊 Stats</h2>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=1AhmedS&rank_icon=github&theme=dark" alt="Stats"/>
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1AhmedS&layout=pie&theme=dark" alt="top-langs"/>
   </p>
-</div>
+</div> -->
 
 
 #
