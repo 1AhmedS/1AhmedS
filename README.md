@@ -32,13 +32,13 @@ Full Stack Developer specializing in web applications and Discord bots. Skilled 
 
 <p align="center">
   <a href="https://github.com/1AhmedS/Discord.js-starter-files">
-    <img src="https://readmecard.ahmedtv027.workers.dev/pin?name=Discord.js-starter-files&desc=Discord.js%20Starter%20Files%20to%20build%20your%20own%20bot%20used%20(%20JavaScript%20)&lang=JavaScript&theme=dark&secondary_accent=7394f7" />
+    <img src="https://raw.githubusercontent.com/1AhmedS/1AhmedS/ca01b65b8f4c3b465f9fdf81f38067e687139abf/Discordjs-starter-files.svg" />
   </a>
   <a href="https://github.com/1AhmedS/Discord.js-ts-starter-files">
-    <img src="https://readmecard.ahmedtv027.workers.dev/pin?name=Discord.js-ts-starter-files&desc=Discord.js%20Starter%20Files%20to%20build%20your%20own%20bot%20used%20(%20TypeScript%20)&lang=Typescript&theme=dark&secondary_accent=7394f7" />
+    <img src="https://raw.githubusercontent.com/1AhmedS/1AhmedS/ca01b65b8f4c3b465f9fdf81f38067e687139abf/Discordjs-ts-starter-files.svg" />
   </a>
   <a href="https://github.com/1AhmedS/Discord.py-starter-files">
-    <img src="https://readmecard.ahmedtv027.workers.dev/pin?name=Discord.py-starter-files&desc=Discord.py%20Starter%20Files%20to%20build%20your%20own%20bot%20used%20(%20Python%20)&lang=Python&theme=dark&secondary_accent=7394f7" />
+    <img src="https://raw.githubusercontent.com/1AhmedS/1AhmedS/ca01b65b8f4c3b465f9fdf81f38067e687139abf/Discordpy-starter-files.svg" />
   </a>
 </p>
 
@@ -48,7 +48,7 @@ Full Stack Developer specializing in web applications and Discord bots. Skilled 
 
 <p align="center">
   <a href="https://www.npmjs.com/package/welcomerpackage">
-    <img src="https://readmecard.ahmedtv027.workers.dev/pin?name=welcomerpackage&desc=Discord%20Welcome%20Package%20(%20Used%20Discord.js%20)&lang=Typescript&theme=dark&secondary_accent=7394f7" />
+    <img src="https://raw.githubusercontent.com/1AhmedS/1AhmedS/ca01b65b8f4c3b465f9fdf81f38067e687139abf/welcomerpackage.svg" />
   </a>
 </p>
 
