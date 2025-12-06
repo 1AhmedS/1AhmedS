@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="200" viewBox="0 0 720 200" role="img" aria-label="Discord.js-starter-files">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#1c2026"/>
+      <stop offset="100%" stop-color="#15191f"/>
+    </linearGradient>
+
+    <radialGradient id="glow1" cx="15%" cy="20%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glow2" cx="85%" cy="75%">
+      <stop offset="0%" stop-color="7394f7" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="7394f7" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="badgeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0.08"/>
+    </linearGradient>
+
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.5"/>
+      <stop offset="50%" stop-color="7394f7" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0.4"/>
+    </linearGradient>
+
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
+      <feOffset dx="0" dy="2"/>
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.3"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="720" height="200" rx="16" fill="url(#bgGrad)"/>
+  <rect width="720" height="200" rx="16" fill="url(#glow1)"/>
+  <rect width="720" height="200" rx="16" fill="url(#glow2)"/>
+
+  <rect width="718" height="198" x="1" y="1" rx="16" fill="none"
+        stroke="url(#borderGrad)" stroke-width="1.5" opacity="0.6"/>
+
+  <g opacity="0.04">
+    <circle cx="60" cy="40" r="140" fill="#58a6ff"/>
+    <circle cx="640" cy="150" r="120" fill="7394f7"/>
+  </g>
+
+  <g font-family="'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, Roboto, sans-serif">
+
+    <!-- Repo name + icon -->
+    <g transform="translate(32,32)">
+      <g opacity="0.9">
+        <rect x="0" y="0" width="20" height="20" rx="3" fill="#58a6ff" opacity="0.15"/>
+        <path d="M4 6h12M4 10h12M4 14h8" stroke="#58a6ff" stroke-width="1.5"
+              stroke-linecap="round" opacity="0.9" transform="translate(2,2)"/>
+      </g>
+      <text x="28" y="15" font-size="20" font-weight="700" fill="#e6edf3"
+            letter-spacing="-0.02em" filter="url(#shadow)">
+        Discord.js-starter-files
+      </text>
+    </g>
+
+    <!-- Description -->
+    <foreignObject x="32" y="68" width="656" height="60">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="
+        color:#8b949e;
+        font-size:15px;
+        line-height:1.6;
+        overflow:hidden;
+        display:-webkit-box;
+        -webkit-line-clamp:2;
+        -webkit-box-orient:vertical;
+        font-weight:400;">
+        Discord.js Starter Files to build your own bot used ( JavaScript )
+      </div>
+    </foreignObject>
+
+    <!-- Language badge -->
+    <g transform="translate(32,145)">
+      <rect rx="10" width="120" height="28" fill="url(#badgeGrad)"
+            stroke="#58a6ff" stroke-width="1" stroke-opacity="0.3"/>
+      <circle cx="12" cy="14" r="4" fill="#58a6ff" opacity="0.9"/>
+      <text x="22" y="18" font-size="13" fill="#e6edf3" font-weight="600">
+        JavaScript
+      </text>
+    </g>
+
+    
+
+    <!-- Footer -->
+    <text x="688" y="184" text-anchor="end" font-size="11"
+          fill="#8b949e" opacity="0.6" font-weight="500">readme-card-api</text>
+
+    <line x1="32" y1="162" x2="140" y2="162"
+          stroke="url(#borderGrad)" stroke-width="1.5" opacity="0.25" stroke-linecap="round"/>
+  </g>
+</svg>
