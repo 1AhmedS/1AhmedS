@@ -30,9 +30,32 @@
 <a href="https://discord.com/users/813844172754649130"><img src="https://lanyard.cnrad.dev/api/813844172754649130?borderRadius=15px&bg=0d1117&idleMessage=%D9%85%D8%B4%20%D8%A8%D8%B9%D9%85%D9%84%20%D8%AD%D8%A7%D8%AC%D8%A9%20-%20i%20don't%20do%20anything&theme=dark&showDisplayName=false&hideDecoration=false" /></a>
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=1AhmedS&icon=0&color=0)](https://visitcount.itsvg.in)
+# 🚀 Projects I Share
 
+<p align="center">
+  <a href="https://github.com/1AhmedS/Discord.js-starter-files">
+    <img src="https://readmecard.ahmedtv027.workers.dev/pin?name=Discord.js-starter-files&desc=Discord.js%20Starter%20Files%20to%20build%20your%20own%20bot%20used%20(%20JavaScript%20)&lang=JavaScript&theme=dark&secondary_accent=7394f7" />
+  </a>
+  <a href="https://github.com/1AhmedS/Discord.js-ts-starter-files">
+    <img src="https://readmecard.ahmedtv027.workers.dev/pin?name=Discord.js-ts-starter-files&desc=Discord.js%20Starter%20Files%20to%20build%20your%20own%20bot%20used%20(%20TypeScript%20)&lang=Typescript&theme=dark&secondary_accent=7394f7" />
+  </a>
+  <a href="https://github.com/1AhmedS/Discord.py-starter-files">
+    <img src="https://readmecard.ahmedtv027.workers.dev/pin?name=Discord.py-starter-files&desc=Discord.py%20Starter%20Files%20to%20build%20your%20own%20bot%20used%20(%20Python%20)&lang=Python&theme=dark&secondary_accent=7394f7" />
+  </a>
+</p>
+
+---
+
+# 🔥 NPM Packages
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/welcomerpackage">
+    <img src="https://readmecard.ahmedtv027.workers.dev/pin?name=welcomerpackage&desc=Discord%20Welcome%20Package%20(%20Used%20Discord.js%20)&lang=Typescript&theme=dark&secondary_accent=7394f7" />
+  </a>
+</p>
+
+
+---
 <!-- <div align="center">
   <h2>📊 Stats</h2>
   <p>
@@ -41,9 +64,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1AhmedS&layout=pie&theme=dark" alt="top-langs"/>
   </p>
 </div> -->
-
-
-#
 
 <div align="center">
   <h2>🔨 Languages and Tools</h2>
