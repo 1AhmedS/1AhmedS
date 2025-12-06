@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img align="center" alt="Main-banner" src="https://i.ibb.co/HhXZ2Xw/About-me.png" />
+       <img src="https://github.com/1AhmedS/1AhmedS/blob/main/aboutme.png?raw=true" alt="About Me Banner" width="800"/>
   </p>
 </div>
 <div align="center">
