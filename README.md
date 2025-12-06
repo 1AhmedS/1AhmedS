@@ -10,11 +10,9 @@
   </p>
 </div>
 
-**`مبرمج ( بوتات ديسكورد - مواقع )`**
+**`Developer ( Discord Bots - Web )`**
 
-أنا أحمد سمير، مبرمج Full Stack شغوف بتطوير تطبيقات ويب متكاملة باستخدام أحدث التقنيات. أمتلك خبرة قوية في تطوير الواجهات الأمامية باستخدام React.js وNext.js، مع التركيز على بناء تجارب مستخدم ديناميكية وسلسة. لدي خبرة في تطوير المتاجر الإلكترونية باستخدام Liquid وShopify، بالإضافة إلى تطوير بوتات Discord باستخدام discord.js. 🛠️ مهاراتي التقنية
-
-الواجهات الأمامية: تصميم واجهات تفاعلية باستخدام React.js، Next.js، HTML، CSS، JavaScript، وTypeScript. الباك إند: تطوير تطبيقات قوية باستخدام Node.js و TypeScript لحل المشاكل البرمجية وإدارة السيرفرات. إدارة الكود: استخدام Git وGitHub لإدارة إصدارات المشاريع بكفاءة. أدوات التطوير: العمل باستخدامWindsurf , Cursor , VSCode لكتابة وتطوير الأكواد.
+Full Stack Developer specializing in web applications and Discord bots. Skilled in building dynamic frontends with React.js, Next.js, HTML, CSS, JavaScript, and TypeScript. Experienced in Shopify/Liquid for e-commerce and backend development with Node.js and TypeScript. Proficient in Git/GitHub and modern development tools like VSCode.
 
 
 
@@ -80,16 +78,13 @@
   </p>
 </div>
 
-#
-
-
+---
 <div align="center">
   <h2>💻 Skills</h2>
     <img src="https://skillicons.dev/icons?i=pycharm,github,vscode,replit,photoshop,premiere,discord,discordbots" alt="My Languages"/>
 </div>
 
-#
-
+---
 <div align="center" style="margin-top: 50px;">
   <h2> 💌 Support </h2>
   <p>
@@ -97,7 +92,7 @@
       <img src="https://img.shields.io/github/followers/1AhmedS?label=Follow&style=social" alt="GitHub Follow"/>
     </a>
     <a href="https://paypal.me/ASamir941">
-      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=flat" alt="Buy Me a Coffee"/>
+      <img src="https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff" alt="Paypal Donate"/>
     </a>
   </p>
 </div>
