@@ -31,6 +31,9 @@ Full Stack Developer specializing in web applications and Discord bots. Skilled 
 # 🚀 Projects I Share
 
 <p align="center">
+    <a href="https://github.com/1AhmedS/ParseIt">
+    <img src="https://readmecard.ahmedtv027.workers.dev/pin?name=ParseIt&desc=a%20modern%20JSON%20parser%20and%20viewer%20web%20application%20built%20with%20Next.js%20and%20TypeScript.%20It%20features%20real-time%20JSON%20validation%2C%20formatting%2C%20and%20an%20interactive%20tree%20view%20for%20exploring%20complex%20JSON%20structures.%20The%20app%20includes%20search%20functionality%2C%20dark%2Flight%20themes%2C%20and%20is%20optimized%20for%20handling%20large%20JSON%20files%20through%20virtualized%20rendering.&lang=TypeScript&theme=dark" />
+  </a>
   <a href="https://github.com/1AhmedS/Discord.js-starter-files">
     <img src="https://raw.githubusercontent.com/1AhmedS/1AhmedS/ca01b65b8f4c3b465f9fdf81f38067e687139abf/Discordjs-starter-files.svg" />
   </a>
